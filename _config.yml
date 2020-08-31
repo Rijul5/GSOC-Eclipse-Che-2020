@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+title: [GSoC-Eclipse Che-2020]
+description: [This repository aims to explain the work done under the Google Summer of Code project with Eclipse Che in 2020]
+show_downloads: ["true"]
+google_analytics: [Your Google Analytics tracking ID]
