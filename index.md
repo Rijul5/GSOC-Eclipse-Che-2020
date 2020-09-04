@@ -172,10 +172,3 @@ The project aims to bring CoEditing support in the new architecture of Che. This
 
 In the future, first, we can explore if it is possible to publish/expose the required ports. If it is not possible then we can investigate if the STUN server can be placed inside a sidecar container in Che. This could avoid the problems in exposing or publishing the ports. Second, we can investigate if there could be an alternative to our VS Code extension which shows promise in implementing the CoEditing skeleton in Che. Finally, we can study/implement the different features which are required for the above CoEditing skeleton.
 
-
-
-
-You can use the [editor on GitHub](https://github.com/Rijul5/GSoC-Eclipse-Che-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
